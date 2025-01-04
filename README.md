@@ -1,2 +1,2 @@
 # GecmeNotu
-Universite Dersleriniz için Not Ortalmanızı Hesaplayan Grafik Arayüzü Uygulaması
+Universite Dersleriniz için Not Ortalmanızı ,Harf Notunuzu Hesaplayan Grafik Arayüzü Uygulaması
