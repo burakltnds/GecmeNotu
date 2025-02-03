@@ -4,4 +4,4 @@ Jdk Bilgisayarınızda yüklüyse direkt jar dosyasını indirip kullanabilirsin
 Jdk yüklü değilse yüklemelisiniz
 .java uzantılı kaynak dosyayı indirmenize gerek yoktur
 ## Görsel
-
+![Açıklama](gorseller/3.png)
